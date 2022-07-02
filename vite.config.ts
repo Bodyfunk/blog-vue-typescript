@@ -39,7 +39,7 @@ export default defineConfig({
     host: "localhost",
     port: 3001,
     // // 是否自动在浏览器打开
-    // open: true,
+    open: true,
     // // 是否开启 https
     // https: false,
     // // 服务端渲染
